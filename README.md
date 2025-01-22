@@ -1,4 +1,4 @@
-# Project 2: Voting Application
+FaveShpere: Voting Application
 
 The Voting Application is a program that allows people to vote between multiple options and have the results automatically tallied. Votes will count up on each vote cast and the results will be saved to an account on the Solana network.
 
